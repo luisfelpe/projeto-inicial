@@ -8,5 +8,5 @@ um projeto inicial github para o meu aprendizado e desenvolvimento com Back-end
 - Gosto de Jogos
 
 # Linklist:
-- Link para []
-- 
+- Link para [paginas Github](https://pages.github.com/)
+- Link para [Meu pokemon Favorito](https://img.pokemondb.net/artwork/large/mimikyu.jpg)
