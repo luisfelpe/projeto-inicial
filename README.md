@@ -10,3 +10,6 @@ um projeto inicial github para o meu aprendizado e desenvolvimento com Back-end
 # Linklist:
 - Link para [paginas Github](https://pages.github.com/)
 - Link para [Meu pokemon Favorito](https://img.pokemondb.net/artwork/large/mimikyu.jpg)
+# Estatisticas:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
